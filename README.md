@@ -1,6 +1,6 @@
 ## Original Author
 
-This project was originally created by **djpnewton**.
+This project is maintained by Shuxiang Shen.
 
 Project repository: [**vmulti**](https://github.com/djpnewton/vmulti)
 
