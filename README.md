@@ -1,3 +1,10 @@
+## Original Author
+
+This project was originally created by **djpnewton**.
+
+Project repository: [**vmulti**](https://github.com/djpnewton/vmulti)
+
+
 # vmulti
 Virtual Multiple HID Driver (multitouch, mouse, digitizer, keyboard, joystick) 
 
